@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0-nightly.beta.1.20260729.64.gc62ee4e",
-  "tag": "v1.0.0-nightly.beta.1.20260729.64.gc62ee4e",
+  "version": "1.0.0-nightly.beta.1.20260729.65.g939622a",
+  "tag": "v1.0.0-nightly.beta.1.20260729.65.g939622a",
   "sourceRepository": "Bob-Ddong-Iri-Hoyo/BDIH-Launcher",
   "sourceBranch": "main",
-  "sourceCommit": "c62ee4e2bba2e043c25177c282ab7276e6c7a0b1",
+  "sourceCommit": "939622afeae3c4caa469f52e193e3c6a9236434c",
   "snapshotCutoffKst": "manual latest main HEAD",
   "targetVersion": "1.0.0",
   "latestBetaTag": null,
